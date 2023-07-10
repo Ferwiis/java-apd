@@ -3,6 +3,6 @@ Interfaz de usuario mediante la cual el usuario ingresa un archivo de texto con 
 - __Lenguaje de programación:__ Java
 - __Versión:__ JDK 14 SE
 - [__Ejecutable__](https://github.com/Ferwiis/java-apd/tree/main/AFD/dist)
-- [__Documentación__](https://github.com/Ferwiis/java-apd/tree/main/AFD/docs): Guía de usuario
+- [__Documentación__](https://github.com/Ferwiis/java-apd/tree/main/AFD/docs): Guía de usuario y diagramas del sistema
 
-*Nota:* Ver la guía de usuario para entender cómo usar el programa
+*Nota:* Ver la guía de usuario para entender cómo usar el programa y los diagramas para la arquitectura del sistema
